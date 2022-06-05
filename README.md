@@ -1,7 +1,9 @@
 # bookmyclass
 
 
-A single page static static website for a product
+A single page static website-using emailjs for contact form
+
+https://bookmyclass.com.au
 
 
 
